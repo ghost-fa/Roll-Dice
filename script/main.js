@@ -31,10 +31,8 @@
     let button = document.querySelector('#button-roll');
     button.addEventListener('click', event => {
         event.preventDefault();
-        let firstroll = firstDice.roll();
-        let scundroll = scundDice.roll();
 
-        imagesToPrint(firstroll, scundroll);
+        imagesToPrint(firstDice.roll(), scundDice.roll());
     });
 
 

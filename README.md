@@ -3,7 +3,7 @@
 
 ### description 
 
-- game that gave you diffrent number when the dice rolling
+- game that gave you different number when the dice rolling
 
 - To install dependencies yarn install
 
